@@ -1,0 +1,12 @@
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache

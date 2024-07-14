@@ -1,0 +1,13 @@
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+C:\Users\mateu\Documents\Programação\Rocket\NLW\C#\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
